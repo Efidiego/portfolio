@@ -11,7 +11,9 @@ html {
     overflow: hidden
 }
 
-body {
+body 
+
+{
     position: initial;
     font-family: poppins, Helvetica, sans-serif;
     font-size: 14px;
@@ -29,7 +31,9 @@ body {
     overflow-x: hidden
 }
 
-.lm-animated-bg {
+.lm-animated-bg 
+
+{
     position: absolute;
     width: auto;
     height: auto;
@@ -44,7 +48,9 @@ body {
     z-index: -1
 }
 
-.page-scroll {
+.page-scroll 
+
+{
     width: 100%;
     height: auto;
     min-height: 100%;
